@@ -163,10 +163,10 @@ launcherWeb
 listAllfishraw
 listAllfishcooked
 cropSeaweed
-buttonWood
-gemEnderBiotite
 mushroomAny
 tallow
+buttonWood
+gemEnderBiotite
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -290,8 +290,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
@@ -303,6 +301,8 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+stonePolished
+plankStained
 ingotCopper
 ingotInvar
 ingotElectrum
